@@ -35,7 +35,7 @@ timezone: # see https://en.wikipedia.org/wiki/List_of_tz_database_time_zones for
 ##############################
 author:
   type      : # "person" (default), "organization"
-  name      : Your Name
+  name      : shortchihuahua
   url       :
   avatar    : # path or url of avatar image (square)
   bio       : I am an amazing person.
@@ -55,7 +55,7 @@ author:
 
 ## => GitHub Repository (if the site is hosted by GitHub)
 ##############################
-repository: user_name/repo_name
+repository: shortchihuahua/shortchihuahua.github.io
 repository_tree: master
 
 
@@ -78,7 +78,7 @@ license: CC-BY-NC-4.0 # "CC-BY-4.0", "CC-BY-SA-4.0", "CC-BY-NC-4.0", "CC-BY-ND-4
 
 ## TOC
 toc:
-  selectors: # "h1,h2,h3" (default)
+  selectors: "h1,h2,h3,h4" # "h1,h2,h3" (default)
 
 
 ## => Markdown Enhancements
